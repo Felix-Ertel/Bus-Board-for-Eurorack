@@ -2,9 +2,9 @@
 A Bus Board to supply Eurorack modules available in four sizes. 
 
 Available sizes:
-XS: 15,64 x 3,00 cm
-S: 26,10 x 3,00 cm
-M: 36,56 x 3,00 cm
+XS: 15,64 x 3,00 cm;
+S: 26,10 x 3,00 cm;
+M: 36,56 x 3,00 cm;
 L: 47,02 x 3,00 cm
 
 The Bus Board can supply Eurorack modules with three distinct voltage levels, 5 Volt, 12 Volt, and -12 Volt, and a 0V/Ground connection.
